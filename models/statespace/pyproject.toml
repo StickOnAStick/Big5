@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.12"
 loguru = "^0.7.2"
 pydantic = "^2.10.2"
+triton = "^3.1.0"
+mamba-ssm = "^2.2.2"
 
 
 [build-system]
